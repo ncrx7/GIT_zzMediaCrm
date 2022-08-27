@@ -47,11 +47,18 @@ namespace zzMedyaCrm.Controllers
         }
 
         [HttpPut("id")]
-        public void Put(Customer model)
+        public IActionResult Put(Customer model)
         {
             var customerId = _context.Customers.Find(model.Id);
+
+            if (customerId == null)
+            {
+                return BadRequest("not null");
+            }
+
             _context.Update(customerId);
             _context.SaveChanges();
+            return Ok();
             
         }
 

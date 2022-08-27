@@ -2232,11 +2232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Musa\\Documents\\Musa Vs-Projects\\zzMedyaCrm\\zzMedyaCrm\\zzMedyaCrm.csproj",
+      "projectUniqueName": "C:\\Users\\Musa\\Documents\\GitHub\\GIT_zzMediaCrm\\Back_End\\zzMedyaCrm\\zzMedyaCrm\\zzMedyaCrm.csproj",
       "projectName": "zzMedyaCrm",
-      "projectPath": "C:\\Users\\Musa\\Documents\\Musa Vs-Projects\\zzMedyaCrm\\zzMedyaCrm\\zzMedyaCrm.csproj",
+      "projectPath": "C:\\Users\\Musa\\Documents\\GitHub\\GIT_zzMediaCrm\\Back_End\\zzMedyaCrm\\zzMedyaCrm\\zzMedyaCrm.csproj",
       "packagesPath": "C:\\Users\\Musa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Musa\\Documents\\Musa Vs-Projects\\zzMedyaCrm\\zzMedyaCrm\\obj\\",
+      "outputPath": "C:\\Users\\Musa\\Documents\\GitHub\\GIT_zzMediaCrm\\Back_End\\zzMedyaCrm\\zzMedyaCrm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

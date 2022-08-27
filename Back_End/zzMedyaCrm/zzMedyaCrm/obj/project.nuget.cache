@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vPjuRKAloHVvB3posmLZ04B6EwZQKKg1H2Chgu4l1sd2SZcv5PCMDGiGOhgq6LQMjSR/BdqkgQ23aYLn5GXDcQ==",
+  "dgSpecHash": "mj1Gd3kwYcsX8Tjgfpx3WdgQsyNJLGNYspP/si0zNNlXpLQUYHnixP0FQZV6WwRxo0Ou5I7voA+pVcOoT+9KcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Musa\\Documents\\Musa Vs-Projects\\zzMedyaCrm\\zzMedyaCrm\\zzMedyaCrm.csproj",
+  "projectFilePath": "C:\\Users\\Musa\\Documents\\GitHub\\GIT_zzMediaCrm\\Back_End\\zzMedyaCrm\\zzMedyaCrm\\zzMedyaCrm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Musa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Musa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
