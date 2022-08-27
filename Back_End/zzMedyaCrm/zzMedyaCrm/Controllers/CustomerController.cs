@@ -64,11 +64,17 @@ namespace zzMedyaCrm.Controllers
 
 
         [HttpDelete("id")]
-        public void Delete(Customer model)
+        public IActionResult Delete(Customer model)
         {
             var customerId = _context.Customers.Find(model.Id);
+            if (customerId == null)
+            {
+                return BadRequest("not null");
+            }
             _context.Remove(customerId);
             _context.SaveChanges();
+
+            return Ok();
 
         }
     }
